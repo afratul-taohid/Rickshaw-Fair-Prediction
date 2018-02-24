@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">রিকশা ভাড়া</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="hint">Search</string>
+    <string name="test_sample">Approximate Fare</string>
+    <string name="search">Search Destination</string>
+
+</resources>

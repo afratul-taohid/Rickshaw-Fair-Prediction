@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="search_view_inset">5dp</dimen>
+    <dimen name="sliding_search_view_header_height">250dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="anchor_point">300dp</dimen>
+    <dimen name="bottom_sheet_peek_height">80dp</dimen>
+</resources>
